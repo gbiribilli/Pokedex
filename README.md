@@ -2,9 +2,9 @@
 
 ## 👥 Integrantes do Grupo
 
-- **Nome Completo do Aluno 1**: Guilherme Biribilli 
-- **Nome Completo do Aluno 2**: Aline Douaki Flores
-- **Nome Completo do Aluno 3**: Mateus Borba Silveira
+- **Guilherme Biribilli**
+- **Aline Douaki Flores**
+- **Mateus Borba Silveira**
 
 ---
 

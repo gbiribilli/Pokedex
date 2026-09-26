@@ -1,3 +1,7 @@
+# Variáveis de ambiente e credenciais
+.env
+*.env
+
 # Cache local de dados brutos
 dados_brutos/
 

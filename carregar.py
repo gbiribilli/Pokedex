@@ -12,17 +12,29 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
 
 
+def load_dotenv():
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+    if os.path.exists(env_path):
+        with open(env_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    k, v = line.split("=", 1)
+                    k, v = k.strip(), v.strip().strip("'\"")
+                    if k not in os.environ:
+                        os.environ[k] = v
+
+load_dotenv()
+
 # Configuração de Banco de Dados
-MONGO_URI = os.getenv(
-    "MONGO_URI",
-    "mongodb+srv://fuzeassistir_db_user:txtaBSpXEFX5DMge@pokedexbronze.6fpjwmr.mongodb.net/?appName=pokedexBronze"
-)
+MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
 
 PG_HOST = os.getenv("PGHOST", "localhost")
-PG_PORT = int(os.getenv("PGPORT", "5433"))
+PG_PORT = int(os.getenv("PGPORT", "5432"))
 PG_USER = os.getenv("PGUSER", "postgres")
 PG_PASSWORD = os.getenv("PGPASSWORD", "postgres")
 PG_DBNAME = os.getenv("PGDATABASE", "postgres")
+
 
 # Mapeamento manual de normalização para casos de exceção da fonte
 MANUAL_MAPPING = {

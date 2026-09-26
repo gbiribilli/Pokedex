@@ -15,6 +15,20 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
 
 
+def load_dotenv():
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+    if os.path.exists(env_path):
+        with open(env_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    k, v = line.split("=", 1)
+                    k, v = k.strip(), v.strip().strip("'\"")
+                    if k not in os.environ:
+                        os.environ[k] = v
+
+load_dotenv()
+
 # Configurações de Origem
 POKEAPI_BASE = "https://pokeapi.co/api/v2"
 CSV_POKEMON_URL = "https://raw.githubusercontent.com/cdiener/pokemon_app/master/pokemon.csv"
@@ -34,13 +48,11 @@ os.makedirs(CACHE_TYPES_DIR, exist_ok=True)
 session = requests.Session()
 
 def get_mongo_client():
-    mongo_uri = os.getenv(
-        "MONGO_URI",
-        "mongodb+srv://fuzeassistir_db_user:txtaBSpXEFX5DMge@pokedexbronze.6fpjwmr.mongodb.net/?appName=pokedexBronze"
-    )
+    mongo_uri = os.getenv("MONGO_URI", "mongodb://localhost:27017")
     if "mongodb+srv://" in mongo_uri:
         return MongoClient(mongo_uri, server_api=ServerApi('1'))
     return MongoClient(mongo_uri)
+
 
 def get_with_cache(url, filepath):
     """

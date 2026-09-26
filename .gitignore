@@ -1,0 +1,16 @@
+# Cache local de dados brutos
+dados_brutos/
+
+# Python virtual environment and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Scratch & IDE
+.vscode/
+.idea/
+scratch/
+tste.txt

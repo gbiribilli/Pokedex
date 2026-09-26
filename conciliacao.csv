@@ -1,0 +1,801 @@
+csv_id,csv_name,pokeapi_id,pokeapi_name,species_id,status,estrategia
+1,Bulbasaur,1,bulbasaur,1,CONCILIADO,Normalização Padrão de Nomenclatura
+2,Ivysaur,2,ivysaur,2,CONCILIADO,Normalização Padrão de Nomenclatura
+3,Venusaur,3,venusaur,3,CONCILIADO,Normalização Padrão de Nomenclatura
+4,Mega Venusaur,10033,venusaur-mega,3,CONCILIADO,Tratamento Específico/Exceção de Domínio
+5,Charmander,4,charmander,4,CONCILIADO,Normalização Padrão de Nomenclatura
+6,Charmeleon,5,charmeleon,5,CONCILIADO,Normalização Padrão de Nomenclatura
+7,Charizard,6,charizard,6,CONCILIADO,Normalização Padrão de Nomenclatura
+8,Mega Charizard X,10034,charizard-mega-x,6,CONCILIADO,Tratamento Específico/Exceção de Domínio
+9,Mega Charizard Y,10035,charizard-mega-y,6,CONCILIADO,Tratamento Específico/Exceção de Domínio
+10,Squirtle,7,squirtle,7,CONCILIADO,Normalização Padrão de Nomenclatura
+11,Wartortle,8,wartortle,8,CONCILIADO,Normalização Padrão de Nomenclatura
+12,Blastoise,9,blastoise,9,CONCILIADO,Normalização Padrão de Nomenclatura
+13,Mega Blastoise,10036,blastoise-mega,9,CONCILIADO,Tratamento Específico/Exceção de Domínio
+14,Caterpie,10,caterpie,10,CONCILIADO,Normalização Padrão de Nomenclatura
+15,Metapod,11,metapod,11,CONCILIADO,Normalização Padrão de Nomenclatura
+16,Butterfree,12,butterfree,12,CONCILIADO,Normalização Padrão de Nomenclatura
+17,Weedle,13,weedle,13,CONCILIADO,Normalização Padrão de Nomenclatura
+18,Kakuna,14,kakuna,14,CONCILIADO,Normalização Padrão de Nomenclatura
+19,Beedrill,15,beedrill,15,CONCILIADO,Normalização Padrão de Nomenclatura
+20,Mega Beedrill,10090,beedrill-mega,15,CONCILIADO,Normalização Padrão de Nomenclatura
+21,Pidgey,16,pidgey,16,CONCILIADO,Normalização Padrão de Nomenclatura
+22,Pidgeotto,17,pidgeotto,17,CONCILIADO,Normalização Padrão de Nomenclatura
+23,Pidgeot,18,pidgeot,18,CONCILIADO,Normalização Padrão de Nomenclatura
+24,Mega Pidgeot,10073,pidgeot-mega,18,CONCILIADO,Normalização Padrão de Nomenclatura
+25,Rattata,19,rattata,19,CONCILIADO,Normalização Padrão de Nomenclatura
+26,Raticate,20,raticate,20,CONCILIADO,Normalização Padrão de Nomenclatura
+27,Spearow,21,spearow,21,CONCILIADO,Normalização Padrão de Nomenclatura
+28,Fearow,22,fearow,22,CONCILIADO,Normalização Padrão de Nomenclatura
+29,Ekans,23,ekans,23,CONCILIADO,Normalização Padrão de Nomenclatura
+30,Arbok,24,arbok,24,CONCILIADO,Normalização Padrão de Nomenclatura
+31,Pikachu,25,pikachu,25,CONCILIADO,Normalização Padrão de Nomenclatura
+32,Raichu,26,raichu,26,CONCILIADO,Normalização Padrão de Nomenclatura
+33,Sandshrew,27,sandshrew,27,CONCILIADO,Normalização Padrão de Nomenclatura
+34,Sandslash,28,sandslash,28,CONCILIADO,Normalização Padrão de Nomenclatura
+35,Nidoran♀,29,nidoran-f,29,CONCILIADO,Tratamento Específico/Exceção de Domínio
+36,Nidorina,30,nidorina,30,CONCILIADO,Normalização Padrão de Nomenclatura
+37,Nidoqueen,31,nidoqueen,31,CONCILIADO,Normalização Padrão de Nomenclatura
+38,Nidoran♂,32,nidoran-m,32,CONCILIADO,Tratamento Específico/Exceção de Domínio
+39,Nidorino,33,nidorino,33,CONCILIADO,Normalização Padrão de Nomenclatura
+40,Nidoking,34,nidoking,34,CONCILIADO,Normalização Padrão de Nomenclatura
+41,Clefairy,35,clefairy,35,CONCILIADO,Normalização Padrão de Nomenclatura
+42,Clefable,36,clefable,36,CONCILIADO,Normalização Padrão de Nomenclatura
+43,Vulpix,37,vulpix,37,CONCILIADO,Normalização Padrão de Nomenclatura
+44,Ninetales,38,ninetales,38,CONCILIADO,Normalização Padrão de Nomenclatura
+45,Jigglypuff,39,jigglypuff,39,CONCILIADO,Normalização Padrão de Nomenclatura
+46,Wigglytuff,40,wigglytuff,40,CONCILIADO,Normalização Padrão de Nomenclatura
+47,Zubat,41,zubat,41,CONCILIADO,Normalização Padrão de Nomenclatura
+48,Golbat,42,golbat,42,CONCILIADO,Normalização Padrão de Nomenclatura
+49,Oddish,43,oddish,43,CONCILIADO,Normalização Padrão de Nomenclatura
+50,Gloom,44,gloom,44,CONCILIADO,Normalização Padrão de Nomenclatura
+51,Vileplume,45,vileplume,45,CONCILIADO,Normalização Padrão de Nomenclatura
+52,Paras,46,paras,46,CONCILIADO,Normalização Padrão de Nomenclatura
+53,Parasect,47,parasect,47,CONCILIADO,Normalização Padrão de Nomenclatura
+54,Venonat,48,venonat,48,CONCILIADO,Normalização Padrão de Nomenclatura
+55,Venomoth,49,venomoth,49,CONCILIADO,Normalização Padrão de Nomenclatura
+56,Diglett,50,diglett,50,CONCILIADO,Normalização Padrão de Nomenclatura
+57,Dugtrio,51,dugtrio,51,CONCILIADO,Normalização Padrão de Nomenclatura
+58,Meowth,52,meowth,52,CONCILIADO,Normalização Padrão de Nomenclatura
+59,Persian,53,persian,53,CONCILIADO,Normalização Padrão de Nomenclatura
+60,Psyduck,54,psyduck,54,CONCILIADO,Normalização Padrão de Nomenclatura
+61,Golduck,55,golduck,55,CONCILIADO,Normalização Padrão de Nomenclatura
+62,Mankey,56,mankey,56,CONCILIADO,Normalização Padrão de Nomenclatura
+63,(Dado Ausente - Linha 63),57,primeape,57,CONCILIADO,Tratamento Específico/Exceção de Domínio
+64,Growlithe,58,growlithe,58,CONCILIADO,Normalização Padrão de Nomenclatura
+65,Arcanine,59,arcanine,59,CONCILIADO,Normalização Padrão de Nomenclatura
+66,Poliwag,60,poliwag,60,CONCILIADO,Normalização Padrão de Nomenclatura
+67,Poliwhirl,61,poliwhirl,61,CONCILIADO,Normalização Padrão de Nomenclatura
+68,Poliwrath,62,poliwrath,62,CONCILIADO,Normalização Padrão de Nomenclatura
+69,Abra,63,abra,63,CONCILIADO,Normalização Padrão de Nomenclatura
+70,Kadabra,64,kadabra,64,CONCILIADO,Normalização Padrão de Nomenclatura
+71,Alakazam,65,alakazam,65,CONCILIADO,Normalização Padrão de Nomenclatura
+72,Mega Alakazam,10037,alakazam-mega,65,CONCILIADO,Tratamento Específico/Exceção de Domínio
+73,Machop,66,machop,66,CONCILIADO,Normalização Padrão de Nomenclatura
+74,Machoke,67,machoke,67,CONCILIADO,Normalização Padrão de Nomenclatura
+75,Machamp,68,machamp,68,CONCILIADO,Normalização Padrão de Nomenclatura
+76,Bellsprout,69,bellsprout,69,CONCILIADO,Normalização Padrão de Nomenclatura
+77,Weepinbell,70,weepinbell,70,CONCILIADO,Normalização Padrão de Nomenclatura
+78,Victreebel,71,victreebel,71,CONCILIADO,Normalização Padrão de Nomenclatura
+79,Tentacool,72,tentacool,72,CONCILIADO,Normalização Padrão de Nomenclatura
+80,Tentacruel,73,tentacruel,73,CONCILIADO,Normalização Padrão de Nomenclatura
+81,Geodude,74,geodude,74,CONCILIADO,Normalização Padrão de Nomenclatura
+82,Graveler,75,graveler,75,CONCILIADO,Normalização Padrão de Nomenclatura
+83,Golem,76,golem,76,CONCILIADO,Normalização Padrão de Nomenclatura
+84,Ponyta,77,ponyta,77,CONCILIADO,Normalização Padrão de Nomenclatura
+85,Rapidash,78,rapidash,78,CONCILIADO,Normalização Padrão de Nomenclatura
+86,Slowpoke,79,slowpoke,79,CONCILIADO,Normalização Padrão de Nomenclatura
+87,Slowbro,80,slowbro,80,CONCILIADO,Normalização Padrão de Nomenclatura
+88,Mega Slowbro,10071,slowbro-mega,80,CONCILIADO,Normalização Padrão de Nomenclatura
+89,Magnemite,81,magnemite,81,CONCILIADO,Normalização Padrão de Nomenclatura
+90,Magneton,82,magneton,82,CONCILIADO,Normalização Padrão de Nomenclatura
+91,Farfetch'd,83,farfetchd,83,CONCILIADO,Tratamento Específico/Exceção de Domínio
+92,Doduo,84,doduo,84,CONCILIADO,Normalização Padrão de Nomenclatura
+93,Dodrio,85,dodrio,85,CONCILIADO,Normalização Padrão de Nomenclatura
+94,Seel,86,seel,86,CONCILIADO,Normalização Padrão de Nomenclatura
+95,Dewgong,87,dewgong,87,CONCILIADO,Normalização Padrão de Nomenclatura
+96,Grimer,88,grimer,88,CONCILIADO,Normalização Padrão de Nomenclatura
+97,Muk,89,muk,89,CONCILIADO,Normalização Padrão de Nomenclatura
+98,Shellder,90,shellder,90,CONCILIADO,Normalização Padrão de Nomenclatura
+99,Cloyster,91,cloyster,91,CONCILIADO,Normalização Padrão de Nomenclatura
+100,Gastly,92,gastly,92,CONCILIADO,Normalização Padrão de Nomenclatura
+101,Haunter,93,haunter,93,CONCILIADO,Normalização Padrão de Nomenclatura
+102,Gengar,94,gengar,94,CONCILIADO,Normalização Padrão de Nomenclatura
+103,Mega Gengar,10038,gengar-mega,94,CONCILIADO,Tratamento Específico/Exceção de Domínio
+104,Onix,95,onix,95,CONCILIADO,Normalização Padrão de Nomenclatura
+105,Drowzee,96,drowzee,96,CONCILIADO,Normalização Padrão de Nomenclatura
+106,Hypno,97,hypno,97,CONCILIADO,Normalização Padrão de Nomenclatura
+107,Krabby,98,krabby,98,CONCILIADO,Normalização Padrão de Nomenclatura
+108,Kingler,99,kingler,99,CONCILIADO,Normalização Padrão de Nomenclatura
+109,Voltorb,100,voltorb,100,CONCILIADO,Normalização Padrão de Nomenclatura
+110,Electrode,101,electrode,101,CONCILIADO,Normalização Padrão de Nomenclatura
+111,Exeggcute,102,exeggcute,102,CONCILIADO,Normalização Padrão de Nomenclatura
+112,Exeggutor,103,exeggutor,103,CONCILIADO,Normalização Padrão de Nomenclatura
+113,Cubone,104,cubone,104,CONCILIADO,Normalização Padrão de Nomenclatura
+114,Marowak,105,marowak,105,CONCILIADO,Normalização Padrão de Nomenclatura
+115,Hitmonlee,106,hitmonlee,106,CONCILIADO,Normalização Padrão de Nomenclatura
+116,Hitmonchan,107,hitmonchan,107,CONCILIADO,Normalização Padrão de Nomenclatura
+117,Lickitung,108,lickitung,108,CONCILIADO,Normalização Padrão de Nomenclatura
+118,Koffing,109,koffing,109,CONCILIADO,Normalização Padrão de Nomenclatura
+119,Weezing,110,weezing,110,CONCILIADO,Normalização Padrão de Nomenclatura
+120,Rhyhorn,111,rhyhorn,111,CONCILIADO,Normalização Padrão de Nomenclatura
+121,Rhydon,112,rhydon,112,CONCILIADO,Normalização Padrão de Nomenclatura
+122,Chansey,113,chansey,113,CONCILIADO,Normalização Padrão de Nomenclatura
+123,Tangela,114,tangela,114,CONCILIADO,Normalização Padrão de Nomenclatura
+124,Kangaskhan,115,kangaskhan,115,CONCILIADO,Normalização Padrão de Nomenclatura
+125,Mega Kangaskhan,10039,kangaskhan-mega,115,CONCILIADO,Tratamento Específico/Exceção de Domínio
+126,Horsea,116,horsea,116,CONCILIADO,Normalização Padrão de Nomenclatura
+127,Seadra,117,seadra,117,CONCILIADO,Normalização Padrão de Nomenclatura
+128,Goldeen,118,goldeen,118,CONCILIADO,Normalização Padrão de Nomenclatura
+129,Seaking,119,seaking,119,CONCILIADO,Normalização Padrão de Nomenclatura
+130,Staryu,120,staryu,120,CONCILIADO,Normalização Padrão de Nomenclatura
+131,Starmie,121,starmie,121,CONCILIADO,Normalização Padrão de Nomenclatura
+132,Mr. Mime,122,mr-mime,122,CONCILIADO,Tratamento Específico/Exceção de Domínio
+133,Scyther,123,scyther,123,CONCILIADO,Normalização Padrão de Nomenclatura
+134,Jynx,124,jynx,124,CONCILIADO,Normalização Padrão de Nomenclatura
+135,Electabuzz,125,electabuzz,125,CONCILIADO,Normalização Padrão de Nomenclatura
+136,Magmar,126,magmar,126,CONCILIADO,Normalização Padrão de Nomenclatura
+137,Pinsir,127,pinsir,127,CONCILIADO,Normalização Padrão de Nomenclatura
+138,Mega Pinsir,10040,pinsir-mega,127,CONCILIADO,Tratamento Específico/Exceção de Domínio
+139,Tauros,128,tauros,128,CONCILIADO,Normalização Padrão de Nomenclatura
+140,Magikarp,129,magikarp,129,CONCILIADO,Normalização Padrão de Nomenclatura
+141,Gyarados,130,gyarados,130,CONCILIADO,Normalização Padrão de Nomenclatura
+142,Mega Gyarados,10041,gyarados-mega,130,CONCILIADO,Tratamento Específico/Exceção de Domínio
+143,Lapras,131,lapras,131,CONCILIADO,Normalização Padrão de Nomenclatura
+144,Ditto,132,ditto,132,CONCILIADO,Normalização Padrão de Nomenclatura
+145,Eevee,133,eevee,133,CONCILIADO,Normalização Padrão de Nomenclatura
+146,Vaporeon,134,vaporeon,134,CONCILIADO,Normalização Padrão de Nomenclatura
+147,Jolteon,135,jolteon,135,CONCILIADO,Normalização Padrão de Nomenclatura
+148,Flareon,136,flareon,136,CONCILIADO,Normalização Padrão de Nomenclatura
+149,Porygon,137,porygon,137,CONCILIADO,Normalização Padrão de Nomenclatura
+150,Omanyte,138,omanyte,138,CONCILIADO,Normalização Padrão de Nomenclatura
+151,Omastar,139,omastar,139,CONCILIADO,Normalização Padrão de Nomenclatura
+152,Kabuto,140,kabuto,140,CONCILIADO,Normalização Padrão de Nomenclatura
+153,Kabutops,141,kabutops,141,CONCILIADO,Normalização Padrão de Nomenclatura
+154,Aerodactyl,142,aerodactyl,142,CONCILIADO,Normalização Padrão de Nomenclatura
+155,Mega Aerodactyl,10042,aerodactyl-mega,142,CONCILIADO,Tratamento Específico/Exceção de Domínio
+156,Snorlax,143,snorlax,143,CONCILIADO,Normalização Padrão de Nomenclatura
+157,Articuno,144,articuno,144,CONCILIADO,Normalização Padrão de Nomenclatura
+158,Zapdos,145,zapdos,145,CONCILIADO,Normalização Padrão de Nomenclatura
+159,Moltres,146,moltres,146,CONCILIADO,Normalização Padrão de Nomenclatura
+160,Dratini,147,dratini,147,CONCILIADO,Normalização Padrão de Nomenclatura
+161,Dragonair,148,dragonair,148,CONCILIADO,Normalização Padrão de Nomenclatura
+162,Dragonite,149,dragonite,149,CONCILIADO,Normalização Padrão de Nomenclatura
+163,Mewtwo,150,mewtwo,150,CONCILIADO,Normalização Padrão de Nomenclatura
+164,Mega Mewtwo X,10043,mewtwo-mega-x,150,CONCILIADO,Tratamento Específico/Exceção de Domínio
+165,Mega Mewtwo Y,10044,mewtwo-mega-y,150,CONCILIADO,Tratamento Específico/Exceção de Domínio
+166,Mew,151,mew,151,CONCILIADO,Normalização Padrão de Nomenclatura
+167,Chikorita,152,chikorita,152,CONCILIADO,Normalização Padrão de Nomenclatura
+168,Bayleef,153,bayleef,153,CONCILIADO,Normalização Padrão de Nomenclatura
+169,Meganium,154,meganium,154,CONCILIADO,Normalização Padrão de Nomenclatura
+170,Cyndaquil,155,cyndaquil,155,CONCILIADO,Normalização Padrão de Nomenclatura
+171,Quilava,156,quilava,156,CONCILIADO,Normalização Padrão de Nomenclatura
+172,Typhlosion,157,typhlosion,157,CONCILIADO,Normalização Padrão de Nomenclatura
+173,Totodile,158,totodile,158,CONCILIADO,Normalização Padrão de Nomenclatura
+174,Croconaw,159,croconaw,159,CONCILIADO,Normalização Padrão de Nomenclatura
+175,Feraligatr,160,feraligatr,160,CONCILIADO,Normalização Padrão de Nomenclatura
+176,Sentret,161,sentret,161,CONCILIADO,Normalização Padrão de Nomenclatura
+177,Furret,162,furret,162,CONCILIADO,Normalização Padrão de Nomenclatura
+178,Hoothoot,163,hoothoot,163,CONCILIADO,Normalização Padrão de Nomenclatura
+179,Noctowl,164,noctowl,164,CONCILIADO,Normalização Padrão de Nomenclatura
+180,Ledyba,165,ledyba,165,CONCILIADO,Normalização Padrão de Nomenclatura
+181,Ledian,166,ledian,166,CONCILIADO,Normalização Padrão de Nomenclatura
+182,Spinarak,167,spinarak,167,CONCILIADO,Normalização Padrão de Nomenclatura
+183,Ariados,168,ariados,168,CONCILIADO,Normalização Padrão de Nomenclatura
+184,Crobat,169,crobat,169,CONCILIADO,Normalização Padrão de Nomenclatura
+185,Chinchou,170,chinchou,170,CONCILIADO,Normalização Padrão de Nomenclatura
+186,Lanturn,171,lanturn,171,CONCILIADO,Normalização Padrão de Nomenclatura
+187,Pichu,172,pichu,172,CONCILIADO,Normalização Padrão de Nomenclatura
+188,Cleffa,173,cleffa,173,CONCILIADO,Normalização Padrão de Nomenclatura
+189,Igglybuff,174,igglybuff,174,CONCILIADO,Normalização Padrão de Nomenclatura
+190,Togepi,175,togepi,175,CONCILIADO,Normalização Padrão de Nomenclatura
+191,Togetic,176,togetic,176,CONCILIADO,Normalização Padrão de Nomenclatura
+192,Natu,177,natu,177,CONCILIADO,Normalização Padrão de Nomenclatura
+193,Xatu,178,xatu,178,CONCILIADO,Normalização Padrão de Nomenclatura
+194,Mareep,179,mareep,179,CONCILIADO,Normalização Padrão de Nomenclatura
+195,Flaaffy,180,flaaffy,180,CONCILIADO,Normalização Padrão de Nomenclatura
+196,Ampharos,181,ampharos,181,CONCILIADO,Normalização Padrão de Nomenclatura
+197,Mega Ampharos,10045,ampharos-mega,181,CONCILIADO,Tratamento Específico/Exceção de Domínio
+198,Bellossom,182,bellossom,182,CONCILIADO,Normalização Padrão de Nomenclatura
+199,Marill,183,marill,183,CONCILIADO,Normalização Padrão de Nomenclatura
+200,Azumarill,184,azumarill,184,CONCILIADO,Normalização Padrão de Nomenclatura
+201,Sudowoodo,185,sudowoodo,185,CONCILIADO,Normalização Padrão de Nomenclatura
+202,Politoed,186,politoed,186,CONCILIADO,Normalização Padrão de Nomenclatura
+203,Hoppip,187,hoppip,187,CONCILIADO,Normalização Padrão de Nomenclatura
+204,Skiploom,188,skiploom,188,CONCILIADO,Normalização Padrão de Nomenclatura
+205,Jumpluff,189,jumpluff,189,CONCILIADO,Normalização Padrão de Nomenclatura
+206,Aipom,190,aipom,190,CONCILIADO,Normalização Padrão de Nomenclatura
+207,Sunkern,191,sunkern,191,CONCILIADO,Normalização Padrão de Nomenclatura
+208,Sunflora,192,sunflora,192,CONCILIADO,Normalização Padrão de Nomenclatura
+209,Yanma,193,yanma,193,CONCILIADO,Normalização Padrão de Nomenclatura
+210,Wooper,194,wooper,194,CONCILIADO,Normalização Padrão de Nomenclatura
+211,Quagsire,195,quagsire,195,CONCILIADO,Normalização Padrão de Nomenclatura
+212,Espeon,196,espeon,196,CONCILIADO,Normalização Padrão de Nomenclatura
+213,Umbreon,197,umbreon,197,CONCILIADO,Normalização Padrão de Nomenclatura
+214,Murkrow,198,murkrow,198,CONCILIADO,Normalização Padrão de Nomenclatura
+215,Slowking,199,slowking,199,CONCILIADO,Normalização Padrão de Nomenclatura
+216,Misdreavus,200,misdreavus,200,CONCILIADO,Normalização Padrão de Nomenclatura
+217,Unown,201,unown,201,CONCILIADO,Normalização Padrão de Nomenclatura
+218,Wobbuffet,202,wobbuffet,202,CONCILIADO,Normalização Padrão de Nomenclatura
+219,Girafarig,203,girafarig,203,CONCILIADO,Normalização Padrão de Nomenclatura
+220,Pineco,204,pineco,204,CONCILIADO,Normalização Padrão de Nomenclatura
+221,Forretress,205,forretress,205,CONCILIADO,Normalização Padrão de Nomenclatura
+222,Dunsparce,206,dunsparce,206,CONCILIADO,Normalização Padrão de Nomenclatura
+223,Gligar,207,gligar,207,CONCILIADO,Normalização Padrão de Nomenclatura
+224,Steelix,208,steelix,208,CONCILIADO,Normalização Padrão de Nomenclatura
+225,Mega Steelix,10072,steelix-mega,208,CONCILIADO,Tratamento Específico/Exceção de Domínio
+226,Snubbull,209,snubbull,209,CONCILIADO,Normalização Padrão de Nomenclatura
+227,Granbull,210,granbull,210,CONCILIADO,Normalização Padrão de Nomenclatura
+228,Qwilfish,211,qwilfish,211,CONCILIADO,Normalização Padrão de Nomenclatura
+229,Scizor,212,scizor,212,CONCILIADO,Normalização Padrão de Nomenclatura
+230,Mega Scizor,10046,scizor-mega,212,CONCILIADO,Tratamento Específico/Exceção de Domínio
+231,Shuckle,213,shuckle,213,CONCILIADO,Normalização Padrão de Nomenclatura
+232,Heracross,214,heracross,214,CONCILIADO,Normalização Padrão de Nomenclatura
+233,Mega Heracross,10047,heracross-mega,214,CONCILIADO,Tratamento Específico/Exceção de Domínio
+234,Sneasel,215,sneasel,215,CONCILIADO,Normalização Padrão de Nomenclatura
+235,Teddiursa,216,teddiursa,216,CONCILIADO,Normalização Padrão de Nomenclatura
+236,Ursaring,217,ursaring,217,CONCILIADO,Normalização Padrão de Nomenclatura
+237,Slugma,218,slugma,218,CONCILIADO,Normalização Padrão de Nomenclatura
+238,Magcargo,219,magcargo,219,CONCILIADO,Normalização Padrão de Nomenclatura
+239,Swinub,220,swinub,220,CONCILIADO,Normalização Padrão de Nomenclatura
+240,Piloswine,221,piloswine,221,CONCILIADO,Normalização Padrão de Nomenclatura
+241,Corsola,222,corsola,222,CONCILIADO,Normalização Padrão de Nomenclatura
+242,Remoraid,223,remoraid,223,CONCILIADO,Normalização Padrão de Nomenclatura
+243,Octillery,224,octillery,224,CONCILIADO,Normalização Padrão de Nomenclatura
+244,Delibird,225,delibird,225,CONCILIADO,Normalização Padrão de Nomenclatura
+245,Mantine,226,mantine,226,CONCILIADO,Normalização Padrão de Nomenclatura
+246,Skarmory,227,skarmory,227,CONCILIADO,Normalização Padrão de Nomenclatura
+247,Houndour,228,houndour,228,CONCILIADO,Normalização Padrão de Nomenclatura
+248,Houndoom,229,houndoom,229,CONCILIADO,Normalização Padrão de Nomenclatura
+249,Mega Houndoom,10048,houndoom-mega,229,CONCILIADO,Tratamento Específico/Exceção de Domínio
+250,Kingdra,230,kingdra,230,CONCILIADO,Normalização Padrão de Nomenclatura
+251,Phanpy,231,phanpy,231,CONCILIADO,Normalização Padrão de Nomenclatura
+252,Donphan,232,donphan,232,CONCILIADO,Normalização Padrão de Nomenclatura
+253,Porygon2,233,porygon2,233,CONCILIADO,Normalização Padrão de Nomenclatura
+254,Stantler,234,stantler,234,CONCILIADO,Normalização Padrão de Nomenclatura
+255,Smeargle,235,smeargle,235,CONCILIADO,Normalização Padrão de Nomenclatura
+256,Tyrogue,236,tyrogue,236,CONCILIADO,Normalização Padrão de Nomenclatura
+257,Hitmontop,237,hitmontop,237,CONCILIADO,Normalização Padrão de Nomenclatura
+258,Smoochum,238,smoochum,238,CONCILIADO,Normalização Padrão de Nomenclatura
+259,Elekid,239,elekid,239,CONCILIADO,Normalização Padrão de Nomenclatura
+260,Magby,240,magby,240,CONCILIADO,Normalização Padrão de Nomenclatura
+261,Miltank,241,miltank,241,CONCILIADO,Normalização Padrão de Nomenclatura
+262,Blissey,242,blissey,242,CONCILIADO,Normalização Padrão de Nomenclatura
+263,Raikou,243,raikou,243,CONCILIADO,Normalização Padrão de Nomenclatura
+264,Entei,244,entei,244,CONCILIADO,Normalização Padrão de Nomenclatura
+265,Suicune,245,suicune,245,CONCILIADO,Normalização Padrão de Nomenclatura
+266,Larvitar,246,larvitar,246,CONCILIADO,Normalização Padrão de Nomenclatura
+267,Pupitar,247,pupitar,247,CONCILIADO,Normalização Padrão de Nomenclatura
+268,Tyranitar,248,tyranitar,248,CONCILIADO,Normalização Padrão de Nomenclatura
+269,Mega Tyranitar,10049,tyranitar-mega,248,CONCILIADO,Tratamento Específico/Exceção de Domínio
+270,Lugia,249,lugia,249,CONCILIADO,Normalização Padrão de Nomenclatura
+271,Ho-oh,250,ho-oh,250,CONCILIADO,Normalização Padrão de Nomenclatura
+272,Celebi,251,celebi,251,CONCILIADO,Normalização Padrão de Nomenclatura
+273,Treecko,252,treecko,252,CONCILIADO,Normalização Padrão de Nomenclatura
+274,Grovyle,253,grovyle,253,CONCILIADO,Normalização Padrão de Nomenclatura
+275,Sceptile,254,sceptile,254,CONCILIADO,Normalização Padrão de Nomenclatura
+276,Mega Sceptile,10065,sceptile-mega,254,CONCILIADO,Tratamento Específico/Exceção de Domínio
+277,Torchic,255,torchic,255,CONCILIADO,Normalização Padrão de Nomenclatura
+278,Combusken,256,combusken,256,CONCILIADO,Normalização Padrão de Nomenclatura
+279,Blaziken,257,blaziken,257,CONCILIADO,Normalização Padrão de Nomenclatura
+280,Mega Blaziken,10050,blaziken-mega,257,CONCILIADO,Tratamento Específico/Exceção de Domínio
+281,Mudkip,258,mudkip,258,CONCILIADO,Normalização Padrão de Nomenclatura
+282,Marshtomp,259,marshtomp,259,CONCILIADO,Normalização Padrão de Nomenclatura
+283,Swampert,260,swampert,260,CONCILIADO,Normalização Padrão de Nomenclatura
+284,Mega Swampert,10064,swampert-mega,260,CONCILIADO,Tratamento Específico/Exceção de Domínio
+285,Poochyena,261,poochyena,261,CONCILIADO,Normalização Padrão de Nomenclatura
+286,Mightyena,262,mightyena,262,CONCILIADO,Normalização Padrão de Nomenclatura
+287,Zigzagoon,263,zigzagoon,263,CONCILIADO,Normalização Padrão de Nomenclatura
+288,Linoone,264,linoone,264,CONCILIADO,Normalização Padrão de Nomenclatura
+289,Wurmple,265,wurmple,265,CONCILIADO,Normalização Padrão de Nomenclatura
+290,Silcoon,266,silcoon,266,CONCILIADO,Normalização Padrão de Nomenclatura
+291,Beautifly,267,beautifly,267,CONCILIADO,Normalização Padrão de Nomenclatura
+292,Cascoon,268,cascoon,268,CONCILIADO,Normalização Padrão de Nomenclatura
+293,Dustox,269,dustox,269,CONCILIADO,Normalização Padrão de Nomenclatura
+294,Lotad,270,lotad,270,CONCILIADO,Normalização Padrão de Nomenclatura
+295,Lombre,271,lombre,271,CONCILIADO,Normalização Padrão de Nomenclatura
+296,Ludicolo,272,ludicolo,272,CONCILIADO,Normalização Padrão de Nomenclatura
+297,Seedot,273,seedot,273,CONCILIADO,Normalização Padrão de Nomenclatura
+298,Nuzleaf,274,nuzleaf,274,CONCILIADO,Normalização Padrão de Nomenclatura
+299,Shiftry,275,shiftry,275,CONCILIADO,Normalização Padrão de Nomenclatura
+300,Taillow,276,taillow,276,CONCILIADO,Normalização Padrão de Nomenclatura
+301,Swellow,277,swellow,277,CONCILIADO,Normalização Padrão de Nomenclatura
+302,Wingull,278,wingull,278,CONCILIADO,Normalização Padrão de Nomenclatura
+303,Pelipper,279,pelipper,279,CONCILIADO,Normalização Padrão de Nomenclatura
+304,Ralts,280,ralts,280,CONCILIADO,Normalização Padrão de Nomenclatura
+305,Kirlia,281,kirlia,281,CONCILIADO,Normalização Padrão de Nomenclatura
+306,Gardevoir,282,gardevoir,282,CONCILIADO,Normalização Padrão de Nomenclatura
+307,Mega Gardevoir,10051,gardevoir-mega,282,CONCILIADO,Tratamento Específico/Exceção de Domínio
+308,Surskit,283,surskit,283,CONCILIADO,Normalização Padrão de Nomenclatura
+309,Masquerain,284,masquerain,284,CONCILIADO,Normalização Padrão de Nomenclatura
+310,Shroomish,285,shroomish,285,CONCILIADO,Normalização Padrão de Nomenclatura
+311,Breloom,286,breloom,286,CONCILIADO,Normalização Padrão de Nomenclatura
+312,Slakoth,287,slakoth,287,CONCILIADO,Normalização Padrão de Nomenclatura
+313,Vigoroth,288,vigoroth,288,CONCILIADO,Normalização Padrão de Nomenclatura
+314,Slaking,289,slaking,289,CONCILIADO,Normalização Padrão de Nomenclatura
+315,Nincada,290,nincada,290,CONCILIADO,Normalização Padrão de Nomenclatura
+316,Ninjask,291,ninjask,291,CONCILIADO,Normalização Padrão de Nomenclatura
+317,Shedinja,292,shedinja,292,CONCILIADO,Normalização Padrão de Nomenclatura
+318,Whismur,293,whismur,293,CONCILIADO,Normalização Padrão de Nomenclatura
+319,Loudred,294,loudred,294,CONCILIADO,Normalização Padrão de Nomenclatura
+320,Exploud,295,exploud,295,CONCILIADO,Normalização Padrão de Nomenclatura
+321,Makuhita,296,makuhita,296,CONCILIADO,Normalização Padrão de Nomenclatura
+322,Hariyama,297,hariyama,297,CONCILIADO,Normalização Padrão de Nomenclatura
+323,Azurill,298,azurill,298,CONCILIADO,Normalização Padrão de Nomenclatura
+324,Nosepass,299,nosepass,299,CONCILIADO,Normalização Padrão de Nomenclatura
+325,Skitty,300,skitty,300,CONCILIADO,Normalização Padrão de Nomenclatura
+326,Delcatty,301,delcatty,301,CONCILIADO,Normalização Padrão de Nomenclatura
+327,Sableye,302,sableye,302,CONCILIADO,Normalização Padrão de Nomenclatura
+328,Mega Sableye,10066,sableye-mega,302,CONCILIADO,Tratamento Específico/Exceção de Domínio
+329,Mawile,303,mawile,303,CONCILIADO,Normalização Padrão de Nomenclatura
+330,Mega Mawile,10052,mawile-mega,303,CONCILIADO,Tratamento Específico/Exceção de Domínio
+331,Aron,304,aron,304,CONCILIADO,Normalização Padrão de Nomenclatura
+332,Lairon,305,lairon,305,CONCILIADO,Normalização Padrão de Nomenclatura
+333,Aggron,306,aggron,306,CONCILIADO,Normalização Padrão de Nomenclatura
+334,Mega Aggron,10053,aggron-mega,306,CONCILIADO,Tratamento Específico/Exceção de Domínio
+335,Meditite,307,meditite,307,CONCILIADO,Normalização Padrão de Nomenclatura
+336,Medicham,308,medicham,308,CONCILIADO,Normalização Padrão de Nomenclatura
+337,Mega Medicham,10054,medicham-mega,308,CONCILIADO,Tratamento Específico/Exceção de Domínio
+338,Electrike,309,electrike,309,CONCILIADO,Normalização Padrão de Nomenclatura
+339,Manectric,310,manectric,310,CONCILIADO,Normalização Padrão de Nomenclatura
+340,Mega Manectric,10055,manectric-mega,310,CONCILIADO,Tratamento Específico/Exceção de Domínio
+341,Plusle,311,plusle,311,CONCILIADO,Normalização Padrão de Nomenclatura
+342,Minun,312,minun,312,CONCILIADO,Normalização Padrão de Nomenclatura
+343,Volbeat,313,volbeat,313,CONCILIADO,Normalização Padrão de Nomenclatura
+344,Illumise,314,illumise,314,CONCILIADO,Normalização Padrão de Nomenclatura
+345,Roselia,315,roselia,315,CONCILIADO,Normalização Padrão de Nomenclatura
+346,Gulpin,316,gulpin,316,CONCILIADO,Normalização Padrão de Nomenclatura
+347,Swalot,317,swalot,317,CONCILIADO,Normalização Padrão de Nomenclatura
+348,Carvanha,318,carvanha,318,CONCILIADO,Normalização Padrão de Nomenclatura
+349,Sharpedo,319,sharpedo,319,CONCILIADO,Normalização Padrão de Nomenclatura
+350,Mega Sharpedo,10070,sharpedo-mega,319,CONCILIADO,Tratamento Específico/Exceção de Domínio
+351,Wailmer,320,wailmer,320,CONCILIADO,Normalização Padrão de Nomenclatura
+352,Wailord,321,wailord,321,CONCILIADO,Normalização Padrão de Nomenclatura
+353,Numel,322,numel,322,CONCILIADO,Normalização Padrão de Nomenclatura
+354,Camerupt,323,camerupt,323,CONCILIADO,Normalização Padrão de Nomenclatura
+355,Mega Camerupt,10087,camerupt-mega,323,CONCILIADO,Tratamento Específico/Exceção de Domínio
+356,Torkoal,324,torkoal,324,CONCILIADO,Normalização Padrão de Nomenclatura
+357,Spoink,325,spoink,325,CONCILIADO,Normalização Padrão de Nomenclatura
+358,Grumpig,326,grumpig,326,CONCILIADO,Normalização Padrão de Nomenclatura
+359,Spinda,327,spinda,327,CONCILIADO,Normalização Padrão de Nomenclatura
+360,Trapinch,328,trapinch,328,CONCILIADO,Normalização Padrão de Nomenclatura
+361,Vibrava,329,vibrava,329,CONCILIADO,Normalização Padrão de Nomenclatura
+362,Flygon,330,flygon,330,CONCILIADO,Normalização Padrão de Nomenclatura
+363,Cacnea,331,cacnea,331,CONCILIADO,Normalização Padrão de Nomenclatura
+364,Cacturne,332,cacturne,332,CONCILIADO,Normalização Padrão de Nomenclatura
+365,Swablu,333,swablu,333,CONCILIADO,Normalização Padrão de Nomenclatura
+366,Altaria,334,altaria,334,CONCILIADO,Normalização Padrão de Nomenclatura
+367,Mega Altaria,10067,altaria-mega,334,CONCILIADO,Tratamento Específico/Exceção de Domínio
+368,Zangoose,335,zangoose,335,CONCILIADO,Normalização Padrão de Nomenclatura
+369,Seviper,336,seviper,336,CONCILIADO,Normalização Padrão de Nomenclatura
+370,Lunatone,337,lunatone,337,CONCILIADO,Normalização Padrão de Nomenclatura
+371,Solrock,338,solrock,338,CONCILIADO,Normalização Padrão de Nomenclatura
+372,Barboach,339,barboach,339,CONCILIADO,Normalização Padrão de Nomenclatura
+373,Whiscash,340,whiscash,340,CONCILIADO,Normalização Padrão de Nomenclatura
+374,Corphish,341,corphish,341,CONCILIADO,Normalização Padrão de Nomenclatura
+375,Crawdaunt,342,crawdaunt,342,CONCILIADO,Normalização Padrão de Nomenclatura
+376,Baltoy,343,baltoy,343,CONCILIADO,Normalização Padrão de Nomenclatura
+377,Claydol,344,claydol,344,CONCILIADO,Normalização Padrão de Nomenclatura
+378,Lileep,345,lileep,345,CONCILIADO,Normalização Padrão de Nomenclatura
+379,Cradily,346,cradily,346,CONCILIADO,Normalização Padrão de Nomenclatura
+380,Anorith,347,anorith,347,CONCILIADO,Normalização Padrão de Nomenclatura
+381,Armaldo,348,armaldo,348,CONCILIADO,Normalização Padrão de Nomenclatura
+382,Feebas,349,feebas,349,CONCILIADO,Normalização Padrão de Nomenclatura
+383,Milotic,350,milotic,350,CONCILIADO,Normalização Padrão de Nomenclatura
+384,Castform,351,castform,351,CONCILIADO,Normalização Padrão de Nomenclatura
+385,Kecleon,352,kecleon,352,CONCILIADO,Normalização Padrão de Nomenclatura
+386,Shuppet,353,shuppet,353,CONCILIADO,Normalização Padrão de Nomenclatura
+387,Banette,354,banette,354,CONCILIADO,Normalização Padrão de Nomenclatura
+388,Mega Banette,10056,banette-mega,354,CONCILIADO,Tratamento Específico/Exceção de Domínio
+389,Duskull,355,duskull,355,CONCILIADO,Normalização Padrão de Nomenclatura
+390,Dusclops,356,dusclops,356,CONCILIADO,Normalização Padrão de Nomenclatura
+391,Tropius,357,tropius,357,CONCILIADO,Normalização Padrão de Nomenclatura
+392,Chimecho,358,chimecho,358,CONCILIADO,Normalização Padrão de Nomenclatura
+393,Absol,359,absol,359,CONCILIADO,Normalização Padrão de Nomenclatura
+394,Mega Absol,10057,absol-mega,359,CONCILIADO,Tratamento Específico/Exceção de Domínio
+395,Wynaut,360,wynaut,360,CONCILIADO,Normalização Padrão de Nomenclatura
+396,Snorunt,361,snorunt,361,CONCILIADO,Normalização Padrão de Nomenclatura
+397,Glalie,362,glalie,362,CONCILIADO,Normalização Padrão de Nomenclatura
+398,Mega Glalie,10074,glalie-mega,362,CONCILIADO,Tratamento Específico/Exceção de Domínio
+399,Spheal,363,spheal,363,CONCILIADO,Normalização Padrão de Nomenclatura
+400,Sealeo,364,sealeo,364,CONCILIADO,Normalização Padrão de Nomenclatura
+401,Walrein,365,walrein,365,CONCILIADO,Normalização Padrão de Nomenclatura
+402,Clamperl,366,clamperl,366,CONCILIADO,Normalização Padrão de Nomenclatura
+403,Huntail,367,huntail,367,CONCILIADO,Normalização Padrão de Nomenclatura
+404,Gorebyss,368,gorebyss,368,CONCILIADO,Normalização Padrão de Nomenclatura
+405,Relicanth,369,relicanth,369,CONCILIADO,Normalização Padrão de Nomenclatura
+406,Luvdisc,370,luvdisc,370,CONCILIADO,Normalização Padrão de Nomenclatura
+407,Bagon,371,bagon,371,CONCILIADO,Normalização Padrão de Nomenclatura
+408,Shelgon,372,shelgon,372,CONCILIADO,Normalização Padrão de Nomenclatura
+409,Salamence,373,salamence,373,CONCILIADO,Normalização Padrão de Nomenclatura
+410,Mega Salamence,10089,salamence-mega,373,CONCILIADO,Tratamento Específico/Exceção de Domínio
+411,Beldum,374,beldum,374,CONCILIADO,Normalização Padrão de Nomenclatura
+412,Metang,375,metang,375,CONCILIADO,Normalização Padrão de Nomenclatura
+413,Metagross,376,metagross,376,CONCILIADO,Normalização Padrão de Nomenclatura
+414,Mega Metagross,10076,metagross-mega,376,CONCILIADO,Tratamento Específico/Exceção de Domínio
+415,Regirock,377,regirock,377,CONCILIADO,Normalização Padrão de Nomenclatura
+416,Regice,378,regice,378,CONCILIADO,Normalização Padrão de Nomenclatura
+417,Registeel,379,registeel,379,CONCILIADO,Normalização Padrão de Nomenclatura
+418,Latias,380,latias,380,CONCILIADO,Normalização Padrão de Nomenclatura
+419,Mega Latias,10062,latias-mega,380,CONCILIADO,Tratamento Específico/Exceção de Domínio
+420,Latios,381,latios,381,CONCILIADO,Normalização Padrão de Nomenclatura
+421,Mega Latios,10063,latios-mega,381,CONCILIADO,Tratamento Específico/Exceção de Domínio
+422,Kyogre,382,kyogre,382,CONCILIADO,Normalização Padrão de Nomenclatura
+423,Primal Kyogre,10077,kyogre-primal,382,CONCILIADO,Tratamento Específico/Exceção de Domínio
+424,Groudon,383,groudon,383,CONCILIADO,Normalização Padrão de Nomenclatura
+425,Primal Groudon,10078,groudon-primal,383,CONCILIADO,Tratamento Específico/Exceção de Domínio
+426,Rayquaza,384,rayquaza,384,CONCILIADO,Normalização Padrão de Nomenclatura
+427,Mega Rayquaza,10079,rayquaza-mega,384,CONCILIADO,Tratamento Específico/Exceção de Domínio
+428,Jirachi,385,jirachi,385,CONCILIADO,Normalização Padrão de Nomenclatura
+429,Deoxys Normal Forme,386,deoxys-normal,386,CONCILIADO,Tratamento Específico/Exceção de Domínio
+430,DeoxysAttack Forme,10001,deoxys-attack,386,CONCILIADO,Tratamento Específico/Exceção de Domínio
+431,Deoxys Defense Forme,10002,deoxys-defense,386,CONCILIADO,Tratamento Específico/Exceção de Domínio
+432,Deoxys Speed Forme,10003,deoxys-speed,386,CONCILIADO,Tratamento Específico/Exceção de Domínio
+433,Turtwig,387,turtwig,387,CONCILIADO,Normalização Padrão de Nomenclatura
+434,Grotle,388,grotle,388,CONCILIADO,Normalização Padrão de Nomenclatura
+435,Torterra,389,torterra,389,CONCILIADO,Normalização Padrão de Nomenclatura
+436,Chimchar,390,chimchar,390,CONCILIADO,Normalização Padrão de Nomenclatura
+437,Monferno,391,monferno,391,CONCILIADO,Normalização Padrão de Nomenclatura
+438,Infernape,392,infernape,392,CONCILIADO,Normalização Padrão de Nomenclatura
+439,Piplup,393,piplup,393,CONCILIADO,Normalização Padrão de Nomenclatura
+440,Prinplup,394,prinplup,394,CONCILIADO,Normalização Padrão de Nomenclatura
+441,Empoleon,395,empoleon,395,CONCILIADO,Normalização Padrão de Nomenclatura
+442,Starly,396,starly,396,CONCILIADO,Normalização Padrão de Nomenclatura
+443,Staravia,397,staravia,397,CONCILIADO,Normalização Padrão de Nomenclatura
+444,Staraptor,398,staraptor,398,CONCILIADO,Normalização Padrão de Nomenclatura
+445,Bidoof,399,bidoof,399,CONCILIADO,Normalização Padrão de Nomenclatura
+446,Bibarel,400,bibarel,400,CONCILIADO,Normalização Padrão de Nomenclatura
+447,Kricketot,401,kricketot,401,CONCILIADO,Normalização Padrão de Nomenclatura
+448,Kricketune,402,kricketune,402,CONCILIADO,Normalização Padrão de Nomenclatura
+449,Shinx,403,shinx,403,CONCILIADO,Normalização Padrão de Nomenclatura
+450,Luxio,404,luxio,404,CONCILIADO,Normalização Padrão de Nomenclatura
+451,Luxray,405,luxray,405,CONCILIADO,Normalização Padrão de Nomenclatura
+452,Budew,406,budew,406,CONCILIADO,Normalização Padrão de Nomenclatura
+453,Roserade,407,roserade,407,CONCILIADO,Normalização Padrão de Nomenclatura
+454,Cranidos,408,cranidos,408,CONCILIADO,Normalização Padrão de Nomenclatura
+455,Rampardos,409,rampardos,409,CONCILIADO,Normalização Padrão de Nomenclatura
+456,Shieldon,410,shieldon,410,CONCILIADO,Normalização Padrão de Nomenclatura
+457,Bastiodon,411,bastiodon,411,CONCILIADO,Normalização Padrão de Nomenclatura
+458,Burmy,412,burmy,412,CONCILIADO,Normalização Padrão de Nomenclatura
+459,Wormadam Plant Cloak,413,wormadam-plant,413,CONCILIADO,Tratamento Específico/Exceção de Domínio
+460,Wormadam Sandy Cloak,10004,wormadam-sandy,413,CONCILIADO,Tratamento Específico/Exceção de Domínio
+461,Wormadam Trash Cloak,10005,wormadam-trash,413,CONCILIADO,Tratamento Específico/Exceção de Domínio
+462,Mothim,414,mothim,414,CONCILIADO,Normalização Padrão de Nomenclatura
+463,Combee,415,combee,415,CONCILIADO,Normalização Padrão de Nomenclatura
+464,Vespiquen,416,vespiquen,416,CONCILIADO,Normalização Padrão de Nomenclatura
+465,Pachirisu,417,pachirisu,417,CONCILIADO,Normalização Padrão de Nomenclatura
+466,Buizel,418,buizel,418,CONCILIADO,Normalização Padrão de Nomenclatura
+467,Floatzel,419,floatzel,419,CONCILIADO,Normalização Padrão de Nomenclatura
+468,Cherubi,420,cherubi,420,CONCILIADO,Normalização Padrão de Nomenclatura
+469,Cherrim,421,cherrim,421,CONCILIADO,Normalização Padrão de Nomenclatura
+470,Shellos,422,shellos,422,CONCILIADO,Normalização Padrão de Nomenclatura
+471,Gastrodon,423,gastrodon,423,CONCILIADO,Normalização Padrão de Nomenclatura
+472,Ambipom,424,ambipom,424,CONCILIADO,Normalização Padrão de Nomenclatura
+473,Drifloon,425,drifloon,425,CONCILIADO,Normalização Padrão de Nomenclatura
+474,Drifblim,426,drifblim,426,CONCILIADO,Normalização Padrão de Nomenclatura
+475,Buneary,427,buneary,427,CONCILIADO,Normalização Padrão de Nomenclatura
+476,Lopunny,428,lopunny,428,CONCILIADO,Normalização Padrão de Nomenclatura
+477,Mega Lopunny,10088,lopunny-mega,428,CONCILIADO,Tratamento Específico/Exceção de Domínio
+478,Mismagius,429,mismagius,429,CONCILIADO,Normalização Padrão de Nomenclatura
+479,Honchkrow,430,honchkrow,430,CONCILIADO,Normalização Padrão de Nomenclatura
+480,Glameow,431,glameow,431,CONCILIADO,Normalização Padrão de Nomenclatura
+481,Purugly,432,purugly,432,CONCILIADO,Normalização Padrão de Nomenclatura
+482,Chingling,433,chingling,433,CONCILIADO,Normalização Padrão de Nomenclatura
+483,Stunky,434,stunky,434,CONCILIADO,Normalização Padrão de Nomenclatura
+484,Skuntank,435,skuntank,435,CONCILIADO,Normalização Padrão de Nomenclatura
+485,Bronzor,436,bronzor,436,CONCILIADO,Normalização Padrão de Nomenclatura
+486,Bronzong,437,bronzong,437,CONCILIADO,Normalização Padrão de Nomenclatura
+487,Bonsly,438,bonsly,438,CONCILIADO,Normalização Padrão de Nomenclatura
+488,Mime Jr.,439,mime-jr,439,CONCILIADO,Tratamento Específico/Exceção de Domínio
+489,Happiny,440,happiny,440,CONCILIADO,Normalização Padrão de Nomenclatura
+490,Chatot,441,chatot,441,CONCILIADO,Normalização Padrão de Nomenclatura
+491,Spiritomb,442,spiritomb,442,CONCILIADO,Normalização Padrão de Nomenclatura
+492,Gible,443,gible,443,CONCILIADO,Normalização Padrão de Nomenclatura
+493,Gabite,444,gabite,444,CONCILIADO,Normalização Padrão de Nomenclatura
+494,Garchomp,445,garchomp,445,CONCILIADO,Normalização Padrão de Nomenclatura
+495,Mega Garchomp,10058,garchomp-mega,445,CONCILIADO,Tratamento Específico/Exceção de Domínio
+496,Munchlax,446,munchlax,446,CONCILIADO,Normalização Padrão de Nomenclatura
+497,Riolu,447,riolu,447,CONCILIADO,Normalização Padrão de Nomenclatura
+498,Lucario,448,lucario,448,CONCILIADO,Normalização Padrão de Nomenclatura
+499,Mega Lucario,10059,lucario-mega,448,CONCILIADO,Tratamento Específico/Exceção de Domínio
+500,Hippopotas,449,hippopotas,449,CONCILIADO,Normalização Padrão de Nomenclatura
+501,Hippowdon,450,hippowdon,450,CONCILIADO,Normalização Padrão de Nomenclatura
+502,Skorupi,451,skorupi,451,CONCILIADO,Normalização Padrão de Nomenclatura
+503,Drapion,452,drapion,452,CONCILIADO,Normalização Padrão de Nomenclatura
+504,Croagunk,453,croagunk,453,CONCILIADO,Normalização Padrão de Nomenclatura
+505,Toxicroak,454,toxicroak,454,CONCILIADO,Normalização Padrão de Nomenclatura
+506,Carnivine,455,carnivine,455,CONCILIADO,Normalização Padrão de Nomenclatura
+507,Finneon,456,finneon,456,CONCILIADO,Normalização Padrão de Nomenclatura
+508,Lumineon,457,lumineon,457,CONCILIADO,Normalização Padrão de Nomenclatura
+509,Mantyke,458,mantyke,458,CONCILIADO,Normalização Padrão de Nomenclatura
+510,Snover,459,snover,459,CONCILIADO,Normalização Padrão de Nomenclatura
+511,Abomasnow,460,abomasnow,460,CONCILIADO,Normalização Padrão de Nomenclatura
+512,Mega Abomasnow,10060,abomasnow-mega,460,CONCILIADO,Tratamento Específico/Exceção de Domínio
+513,Weavile,461,weavile,461,CONCILIADO,Normalização Padrão de Nomenclatura
+514,Magnezone,462,magnezone,462,CONCILIADO,Normalização Padrão de Nomenclatura
+515,Lickilicky,463,lickilicky,463,CONCILIADO,Normalização Padrão de Nomenclatura
+516,Rhyperior,464,rhyperior,464,CONCILIADO,Normalização Padrão de Nomenclatura
+517,Tangrowth,465,tangrowth,465,CONCILIADO,Normalização Padrão de Nomenclatura
+518,Electivire,466,electivire,466,CONCILIADO,Normalização Padrão de Nomenclatura
+519,Magmortar,467,magmortar,467,CONCILIADO,Normalização Padrão de Nomenclatura
+520,Togekiss,468,togekiss,468,CONCILIADO,Normalização Padrão de Nomenclatura
+521,Yanmega,469,yanmega,469,CONCILIADO,Normalização Padrão de Nomenclatura
+522,Leafeon,470,leafeon,470,CONCILIADO,Normalização Padrão de Nomenclatura
+523,Glaceon,471,glaceon,471,CONCILIADO,Normalização Padrão de Nomenclatura
+524,Gliscor,472,gliscor,472,CONCILIADO,Normalização Padrão de Nomenclatura
+525,Mamoswine,473,mamoswine,473,CONCILIADO,Normalização Padrão de Nomenclatura
+526,Porygon-Z,474,porygon-z,474,CONCILIADO,Normalização Padrão de Nomenclatura
+527,Gallade,475,gallade,475,CONCILIADO,Normalização Padrão de Nomenclatura
+528,Mega Gallade,10068,gallade-mega,475,CONCILIADO,Tratamento Específico/Exceção de Domínio
+529,Probopass,476,probopass,476,CONCILIADO,Normalização Padrão de Nomenclatura
+530,Dusknoir,477,dusknoir,477,CONCILIADO,Normalização Padrão de Nomenclatura
+531,Froslass,478,froslass,478,CONCILIADO,Normalização Padrão de Nomenclatura
+532,Rotom,479,rotom,479,CONCILIADO,Normalização Padrão de Nomenclatura
+533,Heat Rotom,10008,rotom-heat,479,CONCILIADO,Tratamento Específico/Exceção de Domínio
+534,Wash Rotom,10009,rotom-wash,479,CONCILIADO,Tratamento Específico/Exceção de Domínio
+535,Frost Rotom,10010,rotom-frost,479,CONCILIADO,Tratamento Específico/Exceção de Domínio
+536,Fan Rotom,10011,rotom-fan,479,CONCILIADO,Tratamento Específico/Exceção de Domínio
+537,Mow Rotom,10012,rotom-mow,479,CONCILIADO,Tratamento Específico/Exceção de Domínio
+538,Uxie,480,uxie,480,CONCILIADO,Normalização Padrão de Nomenclatura
+539,Mesprit,481,mesprit,481,CONCILIADO,Normalização Padrão de Nomenclatura
+540,Azelf,482,azelf,482,CONCILIADO,Normalização Padrão de Nomenclatura
+541,Dialga,483,dialga,483,CONCILIADO,Normalização Padrão de Nomenclatura
+542,Palkia,484,palkia,484,CONCILIADO,Normalização Padrão de Nomenclatura
+543,Heatran,485,heatran,485,CONCILIADO,Normalização Padrão de Nomenclatura
+544,Regigigas,486,regigigas,486,CONCILIADO,Normalização Padrão de Nomenclatura
+545,Giratina Altered Forme,487,giratina-altered,487,CONCILIADO,Tratamento Específico/Exceção de Domínio
+546,Giratina Origin Forme,10007,giratina-origin,487,CONCILIADO,Tratamento Específico/Exceção de Domínio
+547,Cresselia,488,cresselia,488,CONCILIADO,Normalização Padrão de Nomenclatura
+548,Phione,489,phione,489,CONCILIADO,Normalização Padrão de Nomenclatura
+549,Manaphy,490,manaphy,490,CONCILIADO,Normalização Padrão de Nomenclatura
+550,Darkrai,491,darkrai,491,CONCILIADO,Normalização Padrão de Nomenclatura
+551,Shaymin Land Forme,492,shaymin-land,492,CONCILIADO,Tratamento Específico/Exceção de Domínio
+552,Shaymin Sky Forme,10006,shaymin-sky,492,CONCILIADO,Tratamento Específico/Exceção de Domínio
+553,Arceus,493,arceus,493,CONCILIADO,Normalização Padrão de Nomenclatura
+554,Victini,494,victini,494,CONCILIADO,Normalização Padrão de Nomenclatura
+555,Snivy,495,snivy,495,CONCILIADO,Normalização Padrão de Nomenclatura
+556,Servine,496,servine,496,CONCILIADO,Normalização Padrão de Nomenclatura
+557,Serperior,497,serperior,497,CONCILIADO,Normalização Padrão de Nomenclatura
+558,Tepig,498,tepig,498,CONCILIADO,Normalização Padrão de Nomenclatura
+559,Pignite,499,pignite,499,CONCILIADO,Normalização Padrão de Nomenclatura
+560,Emboar,500,emboar,500,CONCILIADO,Normalização Padrão de Nomenclatura
+561,Oshawott,501,oshawott,501,CONCILIADO,Normalização Padrão de Nomenclatura
+562,Dewott,502,dewott,502,CONCILIADO,Normalização Padrão de Nomenclatura
+563,Samurott,503,samurott,503,CONCILIADO,Normalização Padrão de Nomenclatura
+564,Patrat,504,patrat,504,CONCILIADO,Normalização Padrão de Nomenclatura
+565,Watchog,505,watchog,505,CONCILIADO,Normalização Padrão de Nomenclatura
+566,Lillipup,506,lillipup,506,CONCILIADO,Normalização Padrão de Nomenclatura
+567,Herdier,507,herdier,507,CONCILIADO,Normalização Padrão de Nomenclatura
+568,Stoutland,508,stoutland,508,CONCILIADO,Normalização Padrão de Nomenclatura
+569,Purrloin,509,purrloin,509,CONCILIADO,Normalização Padrão de Nomenclatura
+570,Liepard,510,liepard,510,CONCILIADO,Normalização Padrão de Nomenclatura
+571,Pansage,511,pansage,511,CONCILIADO,Normalização Padrão de Nomenclatura
+572,Simisage,512,simisage,512,CONCILIADO,Normalização Padrão de Nomenclatura
+573,Pansear,513,pansear,513,CONCILIADO,Normalização Padrão de Nomenclatura
+574,Simisear,514,simisear,514,CONCILIADO,Normalização Padrão de Nomenclatura
+575,Panpour,515,panpour,515,CONCILIADO,Normalização Padrão de Nomenclatura
+576,Simipour,516,simipour,516,CONCILIADO,Normalização Padrão de Nomenclatura
+577,Munna,517,munna,517,CONCILIADO,Normalização Padrão de Nomenclatura
+578,Musharna,518,musharna,518,CONCILIADO,Normalização Padrão de Nomenclatura
+579,Pidove,519,pidove,519,CONCILIADO,Normalização Padrão de Nomenclatura
+580,Tranquill,520,tranquill,520,CONCILIADO,Normalização Padrão de Nomenclatura
+581,Unfezant,521,unfezant,521,CONCILIADO,Normalização Padrão de Nomenclatura
+582,Blitzle,522,blitzle,522,CONCILIADO,Normalização Padrão de Nomenclatura
+583,Zebstrika,523,zebstrika,523,CONCILIADO,Normalização Padrão de Nomenclatura
+584,Roggenrola,524,roggenrola,524,CONCILIADO,Normalização Padrão de Nomenclatura
+585,Boldore,525,boldore,525,CONCILIADO,Normalização Padrão de Nomenclatura
+586,Gigalith,526,gigalith,526,CONCILIADO,Normalização Padrão de Nomenclatura
+587,Woobat,527,woobat,527,CONCILIADO,Normalização Padrão de Nomenclatura
+588,Swoobat,528,swoobat,528,CONCILIADO,Normalização Padrão de Nomenclatura
+589,Drilbur,529,drilbur,529,CONCILIADO,Normalização Padrão de Nomenclatura
+590,Excadrill,530,excadrill,530,CONCILIADO,Normalização Padrão de Nomenclatura
+591,Audino,531,audino,531,CONCILIADO,Normalização Padrão de Nomenclatura
+592,Mega Audino,10069,audino-mega,531,CONCILIADO,Tratamento Específico/Exceção de Domínio
+593,Timburr,532,timburr,532,CONCILIADO,Normalização Padrão de Nomenclatura
+594,Gurdurr,533,gurdurr,533,CONCILIADO,Normalização Padrão de Nomenclatura
+595,Conkeldurr,534,conkeldurr,534,CONCILIADO,Normalização Padrão de Nomenclatura
+596,Tympole,535,tympole,535,CONCILIADO,Normalização Padrão de Nomenclatura
+597,Palpitoad,536,palpitoad,536,CONCILIADO,Normalização Padrão de Nomenclatura
+598,Seismitoad,537,seismitoad,537,CONCILIADO,Normalização Padrão de Nomenclatura
+599,Throh,538,throh,538,CONCILIADO,Normalização Padrão de Nomenclatura
+600,Sawk,539,sawk,539,CONCILIADO,Normalização Padrão de Nomenclatura
+601,Sewaddle,540,sewaddle,540,CONCILIADO,Normalização Padrão de Nomenclatura
+602,Swadloon,541,swadloon,541,CONCILIADO,Normalização Padrão de Nomenclatura
+603,Leavanny,542,leavanny,542,CONCILIADO,Normalização Padrão de Nomenclatura
+604,Venipede,543,venipede,543,CONCILIADO,Normalização Padrão de Nomenclatura
+605,Whirlipede,544,whirlipede,544,CONCILIADO,Normalização Padrão de Nomenclatura
+606,Scolipede,545,scolipede,545,CONCILIADO,Normalização Padrão de Nomenclatura
+607,Cottonee,546,cottonee,546,CONCILIADO,Normalização Padrão de Nomenclatura
+608,Whimsicott,547,whimsicott,547,CONCILIADO,Normalização Padrão de Nomenclatura
+609,Petilil,548,petilil,548,CONCILIADO,Normalização Padrão de Nomenclatura
+610,Lilligant,549,lilligant,549,CONCILIADO,Normalização Padrão de Nomenclatura
+611,Basculin,550,basculin-red-striped,550,CONCILIADO,Tratamento Específico/Exceção de Domínio
+612,Sandile,551,sandile,551,CONCILIADO,Normalização Padrão de Nomenclatura
+613,Krokorok,552,krokorok,552,CONCILIADO,Normalização Padrão de Nomenclatura
+614,Krookodile,553,krookodile,553,CONCILIADO,Normalização Padrão de Nomenclatura
+615,Darumaka,554,darumaka,554,CONCILIADO,Normalização Padrão de Nomenclatura
+616,Darmanitan Standard Mode,555,darmanitan-standard,555,CONCILIADO,Tratamento Específico/Exceção de Domínio
+617,Darmanitan Zen Mode,10017,darmanitan-zen,555,CONCILIADO,Tratamento Específico/Exceção de Domínio
+618,Maractus,556,maractus,556,CONCILIADO,Normalização Padrão de Nomenclatura
+619,Dwebble,557,dwebble,557,CONCILIADO,Normalização Padrão de Nomenclatura
+620,Crustle,558,crustle,558,CONCILIADO,Normalização Padrão de Nomenclatura
+621,Scraggy,559,scraggy,559,CONCILIADO,Normalização Padrão de Nomenclatura
+622,Scrafty,560,scrafty,560,CONCILIADO,Normalização Padrão de Nomenclatura
+623,Sigilyph,561,sigilyph,561,CONCILIADO,Normalização Padrão de Nomenclatura
+624,Yamask,562,yamask,562,CONCILIADO,Normalização Padrão de Nomenclatura
+625,Cofagrigus,563,cofagrigus,563,CONCILIADO,Normalização Padrão de Nomenclatura
+626,Tirtouga,564,tirtouga,564,CONCILIADO,Normalização Padrão de Nomenclatura
+627,Carracosta,565,carracosta,565,CONCILIADO,Normalização Padrão de Nomenclatura
+628,Archen,566,archen,566,CONCILIADO,Normalização Padrão de Nomenclatura
+629,Archeops,567,archeops,567,CONCILIADO,Normalização Padrão de Nomenclatura
+630,Trubbish,568,trubbish,568,CONCILIADO,Normalização Padrão de Nomenclatura
+631,Garbodor,569,garbodor,569,CONCILIADO,Normalização Padrão de Nomenclatura
+632,Zorua,570,zorua,570,CONCILIADO,Normalização Padrão de Nomenclatura
+633,Zoroark,571,zoroark,571,CONCILIADO,Normalização Padrão de Nomenclatura
+634,Minccino,572,minccino,572,CONCILIADO,Normalização Padrão de Nomenclatura
+635,Cinccino,573,cinccino,573,CONCILIADO,Normalização Padrão de Nomenclatura
+636,Gothita,574,gothita,574,CONCILIADO,Normalização Padrão de Nomenclatura
+637,Gothorita,575,gothorita,575,CONCILIADO,Normalização Padrão de Nomenclatura
+638,Gothitelle,576,gothitelle,576,CONCILIADO,Normalização Padrão de Nomenclatura
+639,Solosis,577,solosis,577,CONCILIADO,Normalização Padrão de Nomenclatura
+640,Duosion,578,duosion,578,CONCILIADO,Normalização Padrão de Nomenclatura
+641,Reuniclus,579,reuniclus,579,CONCILIADO,Normalização Padrão de Nomenclatura
+642,Ducklett,580,ducklett,580,CONCILIADO,Normalização Padrão de Nomenclatura
+643,Swanna,581,swanna,581,CONCILIADO,Normalização Padrão de Nomenclatura
+644,Vanillite,582,vanillite,582,CONCILIADO,Normalização Padrão de Nomenclatura
+645,Vanillish,583,vanillish,583,CONCILIADO,Normalização Padrão de Nomenclatura
+646,Vanilluxe,584,vanilluxe,584,CONCILIADO,Normalização Padrão de Nomenclatura
+647,Deerling,585,deerling,585,CONCILIADO,Normalização Padrão de Nomenclatura
+648,Sawsbuck,586,sawsbuck,586,CONCILIADO,Normalização Padrão de Nomenclatura
+649,Emolga,587,emolga,587,CONCILIADO,Normalização Padrão de Nomenclatura
+650,Karrablast,588,karrablast,588,CONCILIADO,Normalização Padrão de Nomenclatura
+651,Escavalier,589,escavalier,589,CONCILIADO,Normalização Padrão de Nomenclatura
+652,Foongus,590,foongus,590,CONCILIADO,Normalização Padrão de Nomenclatura
+653,Amoonguss,591,amoonguss,591,CONCILIADO,Normalização Padrão de Nomenclatura
+654,Frillish,592,frillish-male,592,CONCILIADO,Tratamento Específico/Exceção de Domínio
+655,Jellicent,593,jellicent-male,593,CONCILIADO,Tratamento Específico/Exceção de Domínio
+656,Alomomola,594,alomomola,594,CONCILIADO,Normalização Padrão de Nomenclatura
+657,Joltik,595,joltik,595,CONCILIADO,Normalização Padrão de Nomenclatura
+658,Galvantula,596,galvantula,596,CONCILIADO,Normalização Padrão de Nomenclatura
+659,Ferroseed,597,ferroseed,597,CONCILIADO,Normalização Padrão de Nomenclatura
+660,Ferrothorn,598,ferrothorn,598,CONCILIADO,Normalização Padrão de Nomenclatura
+661,Klink,599,klink,599,CONCILIADO,Normalização Padrão de Nomenclatura
+662,Klang,600,klang,600,CONCILIADO,Normalização Padrão de Nomenclatura
+663,Klinklang,601,klinklang,601,CONCILIADO,Normalização Padrão de Nomenclatura
+664,Tynamo,602,tynamo,602,CONCILIADO,Normalização Padrão de Nomenclatura
+665,Eelektrik,603,eelektrik,603,CONCILIADO,Normalização Padrão de Nomenclatura
+666,Eelektross,604,eelektross,604,CONCILIADO,Normalização Padrão de Nomenclatura
+667,Elgyem,605,elgyem,605,CONCILIADO,Normalização Padrão de Nomenclatura
+668,Beheeyem,606,beheeyem,606,CONCILIADO,Normalização Padrão de Nomenclatura
+669,Litwick,607,litwick,607,CONCILIADO,Normalização Padrão de Nomenclatura
+670,Lampent,608,lampent,608,CONCILIADO,Normalização Padrão de Nomenclatura
+671,Chandelure,609,chandelure,609,CONCILIADO,Normalização Padrão de Nomenclatura
+672,Axew,610,axew,610,CONCILIADO,Normalização Padrão de Nomenclatura
+673,Fraxure,611,fraxure,611,CONCILIADO,Normalização Padrão de Nomenclatura
+674,Haxorus,612,haxorus,612,CONCILIADO,Normalização Padrão de Nomenclatura
+675,Cubchoo,613,cubchoo,613,CONCILIADO,Normalização Padrão de Nomenclatura
+676,Beartic,614,beartic,614,CONCILIADO,Normalização Padrão de Nomenclatura
+677,Cryogonal,615,cryogonal,615,CONCILIADO,Normalização Padrão de Nomenclatura
+678,Shelmet,616,shelmet,616,CONCILIADO,Normalização Padrão de Nomenclatura
+679,Accelgor,617,accelgor,617,CONCILIADO,Normalização Padrão de Nomenclatura
+680,Stunfisk,618,stunfisk,618,CONCILIADO,Normalização Padrão de Nomenclatura
+681,Mienfoo,619,mienfoo,619,CONCILIADO,Normalização Padrão de Nomenclatura
+682,Mienshao,620,mienshao,620,CONCILIADO,Normalização Padrão de Nomenclatura
+683,Druddigon,621,druddigon,621,CONCILIADO,Normalização Padrão de Nomenclatura
+684,Golett,622,golett,622,CONCILIADO,Normalização Padrão de Nomenclatura
+685,Golurk,623,golurk,623,CONCILIADO,Normalização Padrão de Nomenclatura
+686,Pawniard,624,pawniard,624,CONCILIADO,Normalização Padrão de Nomenclatura
+687,Bisharp,625,bisharp,625,CONCILIADO,Normalização Padrão de Nomenclatura
+688,Bouffalant,626,bouffalant,626,CONCILIADO,Normalização Padrão de Nomenclatura
+689,Rufflet,627,rufflet,627,CONCILIADO,Normalização Padrão de Nomenclatura
+690,Braviary,628,braviary,628,CONCILIADO,Normalização Padrão de Nomenclatura
+691,Vullaby,629,vullaby,629,CONCILIADO,Normalização Padrão de Nomenclatura
+692,Mandibuzz,630,mandibuzz,630,CONCILIADO,Normalização Padrão de Nomenclatura
+693,Heatmor,631,heatmor,631,CONCILIADO,Normalização Padrão de Nomenclatura
+694,Durant,632,durant,632,CONCILIADO,Normalização Padrão de Nomenclatura
+695,Deino,633,deino,633,CONCILIADO,Normalização Padrão de Nomenclatura
+696,Zweilous,634,zweilous,634,CONCILIADO,Normalização Padrão de Nomenclatura
+697,Hydreigon,635,hydreigon,635,CONCILIADO,Normalização Padrão de Nomenclatura
+698,Larvesta,636,larvesta,636,CONCILIADO,Normalização Padrão de Nomenclatura
+699,Volcarona,637,volcarona,637,CONCILIADO,Normalização Padrão de Nomenclatura
+700,Cobalion,638,cobalion,638,CONCILIADO,Normalização Padrão de Nomenclatura
+701,Terrakion,639,terrakion,639,CONCILIADO,Normalização Padrão de Nomenclatura
+702,Virizion,640,virizion,640,CONCILIADO,Normalização Padrão de Nomenclatura
+703,Tornadus Incarnate Forme,641,tornadus-incarnate,641,CONCILIADO,Tratamento Específico/Exceção de Domínio
+704,Tornadus Therian Forme,10019,tornadus-therian,641,CONCILIADO,Tratamento Específico/Exceção de Domínio
+705,Thundurus Incarnate Forme,642,thundurus-incarnate,642,CONCILIADO,Tratamento Específico/Exceção de Domínio
+706,Thundurus Therian Forme,10020,thundurus-therian,642,CONCILIADO,Tratamento Específico/Exceção de Domínio
+707,Reshiram,643,reshiram,643,CONCILIADO,Normalização Padrão de Nomenclatura
+708,Zekrom,644,zekrom,644,CONCILIADO,Normalização Padrão de Nomenclatura
+709,Landorus Incarnate Forme,645,landorus-incarnate,645,CONCILIADO,Tratamento Específico/Exceção de Domínio
+710,Landorus Therian Forme,10021,landorus-therian,645,CONCILIADO,Tratamento Específico/Exceção de Domínio
+711,Kyurem,646,kyurem,646,CONCILIADO,Normalização Padrão de Nomenclatura
+712,Kyurem Black Kyurem,10022,kyurem-black,646,CONCILIADO,Tratamento Específico/Exceção de Domínio
+713,Kyurem White Kyurem,10023,kyurem-white,646,CONCILIADO,Tratamento Específico/Exceção de Domínio
+714,Keldeo Ordinary Forme,647,keldeo-ordinary,647,CONCILIADO,Tratamento Específico/Exceção de Domínio
+715,Keldeo Resolute Forme,10024,keldeo-resolute,647,CONCILIADO,Tratamento Específico/Exceção de Domínio
+716,Meloetta Aria Forme,648,meloetta-aria,648,CONCILIADO,Tratamento Específico/Exceção de Domínio
+717,Meloetta Pirouette Forme,10018,meloetta-pirouette,648,CONCILIADO,Tratamento Específico/Exceção de Domínio
+718,Genesect,649,genesect,649,CONCILIADO,Normalização Padrão de Nomenclatura
+719,Chespin,650,chespin,650,CONCILIADO,Normalização Padrão de Nomenclatura
+720,Quilladin,651,quilladin,651,CONCILIADO,Normalização Padrão de Nomenclatura
+721,Chesnaught,652,chesnaught,652,CONCILIADO,Normalização Padrão de Nomenclatura
+722,Fennekin,653,fennekin,653,CONCILIADO,Normalização Padrão de Nomenclatura
+723,Braixen,654,braixen,654,CONCILIADO,Normalização Padrão de Nomenclatura
+724,Delphox,655,delphox,655,CONCILIADO,Normalização Padrão de Nomenclatura
+725,Froakie,656,froakie,656,CONCILIADO,Normalização Padrão de Nomenclatura
+726,Frogadier,657,frogadier,657,CONCILIADO,Normalização Padrão de Nomenclatura
+727,Greninja,658,greninja,658,CONCILIADO,Normalização Padrão de Nomenclatura
+728,Bunnelby,659,bunnelby,659,CONCILIADO,Normalização Padrão de Nomenclatura
+729,Diggersby,660,diggersby,660,CONCILIADO,Normalização Padrão de Nomenclatura
+730,Fletchling,661,fletchling,661,CONCILIADO,Normalização Padrão de Nomenclatura
+731,Fletchinder,662,fletchinder,662,CONCILIADO,Normalização Padrão de Nomenclatura
+732,Talonflame,663,talonflame,663,CONCILIADO,Normalização Padrão de Nomenclatura
+733,Scatterbug,664,scatterbug,664,CONCILIADO,Normalização Padrão de Nomenclatura
+734,Spewpa,665,spewpa,665,CONCILIADO,Normalização Padrão de Nomenclatura
+735,Vivillon,666,vivillon,666,CONCILIADO,Normalização Padrão de Nomenclatura
+736,Litleo,667,litleo,667,CONCILIADO,Normalização Padrão de Nomenclatura
+737,Pyroar,668,pyroar-male,668,CONCILIADO,Tratamento Específico/Exceção de Domínio
+738,Flabébé,669,flabebe,669,CONCILIADO,Tratamento Específico/Exceção de Domínio
+739,Floette,670,floette,670,CONCILIADO,Normalização Padrão de Nomenclatura
+740,Florges,671,florges,671,CONCILIADO,Normalização Padrão de Nomenclatura
+741,Skiddo,672,skiddo,672,CONCILIADO,Normalização Padrão de Nomenclatura
+742,Gogoat,673,gogoat,673,CONCILIADO,Normalização Padrão de Nomenclatura
+743,Pancham,674,pancham,674,CONCILIADO,Normalização Padrão de Nomenclatura
+744,Pangoro,675,pangoro,675,CONCILIADO,Normalização Padrão de Nomenclatura
+745,Furfrou,676,furfrou,676,CONCILIADO,Normalização Padrão de Nomenclatura
+746,Espurr,677,espurr,677,CONCILIADO,Normalização Padrão de Nomenclatura
+747,Meowstic Male,678,meowstic-male,678,CONCILIADO,Tratamento Específico/Exceção de Domínio
+748,Meowstic Female,10025,meowstic-female,678,CONCILIADO,Tratamento Específico/Exceção de Domínio
+749,Honedge,679,honedge,679,CONCILIADO,Normalização Padrão de Nomenclatura
+750,Doublade,680,doublade,680,CONCILIADO,Normalização Padrão de Nomenclatura
+751,Aegislash Blade Forme,10026,aegislash-blade,681,CONCILIADO,Tratamento Específico/Exceção de Domínio
+752,Aegislash Shield Forme,681,aegislash-shield,681,CONCILIADO,Tratamento Específico/Exceção de Domínio
+753,Spritzee,682,spritzee,682,CONCILIADO,Normalização Padrão de Nomenclatura
+754,Aromatisse,683,aromatisse,683,CONCILIADO,Normalização Padrão de Nomenclatura
+755,Swirlix,684,swirlix,684,CONCILIADO,Normalização Padrão de Nomenclatura
+756,Slurpuff,685,slurpuff,685,CONCILIADO,Normalização Padrão de Nomenclatura
+757,Inkay,686,inkay,686,CONCILIADO,Normalização Padrão de Nomenclatura
+758,Malamar,687,malamar,687,CONCILIADO,Normalização Padrão de Nomenclatura
+759,Binacle,688,binacle,688,CONCILIADO,Normalização Padrão de Nomenclatura
+760,Barbaracle,689,barbaracle,689,CONCILIADO,Normalização Padrão de Nomenclatura
+761,Skrelp,690,skrelp,690,CONCILIADO,Normalização Padrão de Nomenclatura
+762,Dragalge,691,dragalge,691,CONCILIADO,Normalização Padrão de Nomenclatura
+763,Clauncher,692,clauncher,692,CONCILIADO,Normalização Padrão de Nomenclatura
+764,Clawitzer,693,clawitzer,693,CONCILIADO,Normalização Padrão de Nomenclatura
+765,Helioptile,694,helioptile,694,CONCILIADO,Normalização Padrão de Nomenclatura
+766,Heliolisk,695,heliolisk,695,CONCILIADO,Normalização Padrão de Nomenclatura
+767,Tyrunt,696,tyrunt,696,CONCILIADO,Normalização Padrão de Nomenclatura
+768,Tyrantrum,697,tyrantrum,697,CONCILIADO,Normalização Padrão de Nomenclatura
+769,Amaura,698,amaura,698,CONCILIADO,Normalização Padrão de Nomenclatura
+770,Aurorus,699,aurorus,699,CONCILIADO,Normalização Padrão de Nomenclatura
+771,Sylveon,700,sylveon,700,CONCILIADO,Normalização Padrão de Nomenclatura
+772,Hawlucha,701,hawlucha,701,CONCILIADO,Normalização Padrão de Nomenclatura
+773,Dedenne,702,dedenne,702,CONCILIADO,Normalização Padrão de Nomenclatura
+774,Carbink,703,carbink,703,CONCILIADO,Normalização Padrão de Nomenclatura
+775,Goomy,704,goomy,704,CONCILIADO,Normalização Padrão de Nomenclatura
+776,Sliggoo,705,sliggoo,705,CONCILIADO,Normalização Padrão de Nomenclatura
+777,Goodra,706,goodra,706,CONCILIADO,Normalização Padrão de Nomenclatura
+778,Klefki,707,klefki,707,CONCILIADO,Normalização Padrão de Nomenclatura
+779,Phantump,708,phantump,708,CONCILIADO,Normalização Padrão de Nomenclatura
+780,Trevenant,709,trevenant,709,CONCILIADO,Normalização Padrão de Nomenclatura
+781,Pumpkaboo Average Size,710,pumpkaboo-average,710,CONCILIADO,Tratamento Específico/Exceção de Domínio
+782,Pumpkaboo Small Size,10027,pumpkaboo-small,710,CONCILIADO,Tratamento Específico/Exceção de Domínio
+783,Pumpkaboo Large Size,10028,pumpkaboo-large,710,CONCILIADO,Tratamento Específico/Exceção de Domínio
+784,Pumpkaboo Super Size,10029,pumpkaboo-super,710,CONCILIADO,Tratamento Específico/Exceção de Domínio
+785,Gourgeist Average Size,711,gourgeist-average,711,CONCILIADO,Tratamento Específico/Exceção de Domínio
+786,Gourgeist Small Size,10030,gourgeist-small,711,CONCILIADO,Tratamento Específico/Exceção de Domínio
+787,Gourgeist Large Size,10031,gourgeist-large,711,CONCILIADO,Tratamento Específico/Exceção de Domínio
+788,Gourgeist Super Size,10032,gourgeist-super,711,CONCILIADO,Tratamento Específico/Exceção de Domínio
+789,Bergmite,712,bergmite,712,CONCILIADO,Normalização Padrão de Nomenclatura
+790,Avalugg,713,avalugg,713,CONCILIADO,Normalização Padrão de Nomenclatura
+791,Noibat,714,noibat,714,CONCILIADO,Normalização Padrão de Nomenclatura
+792,Noivern,715,noivern,715,CONCILIADO,Normalização Padrão de Nomenclatura
+793,Xerneas,716,xerneas,716,CONCILIADO,Normalização Padrão de Nomenclatura
+794,Yveltal,717,yveltal,717,CONCILIADO,Normalização Padrão de Nomenclatura
+795,Zygarde Half Forme,718,zygarde-50,718,CONCILIADO,Tratamento Específico/Exceção de Domínio
+796,Diancie,719,diancie,719,CONCILIADO,Normalização Padrão de Nomenclatura
+797,Mega Diancie,10075,diancie-mega,719,CONCILIADO,Tratamento Específico/Exceção de Domínio
+798,Hoopa Confined,720,hoopa,720,CONCILIADO,Tratamento Específico/Exceção de Domínio
+799,Hoopa Unbound,10086,hoopa-unbound,720,CONCILIADO,Tratamento Específico/Exceção de Domínio
+800,Volcanion,721,volcanion,721,CONCILIADO,Normalização Padrão de Nomenclatura

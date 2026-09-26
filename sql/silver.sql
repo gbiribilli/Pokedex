@@ -1,14 +1,8 @@
--- ============================================================================
--- Ciencia de Dados -- EP01: ETL e Arquitetura Medalhao
--- Camada Silver -- DDL do Modelo Dimensional Estrela
--- Arquivo: sql/silver.sql
--- ============================================================================
-
 CREATE SCHEMA IF NOT EXISTS silver;
 
--- ----------------------------------------------------------------------------
+
 -- 1. Dimensao Geracao (dim_geracao)
--- ----------------------------------------------------------------------------
+
 CREATE TABLE IF NOT EXISTS silver.dim_geracao (
     id_geracao INTEGER PRIMARY KEY,
     numero_geracao INTEGER NOT NULL UNIQUE,
@@ -16,9 +10,9 @@ CREATE TABLE IF NOT EXISTS silver.dim_geracao (
     regiao_principal VARCHAR(50) NOT NULL
 );
 
--- ----------------------------------------------------------------------------
+
 -- 2. Dimensao Tipo (dim_tipo)
--- ----------------------------------------------------------------------------
+
 CREATE TABLE IF NOT EXISTS silver.dim_tipo (
     id_tipo INTEGER PRIMARY KEY,
     id_tipo_natural INTEGER,
@@ -26,9 +20,9 @@ CREATE TABLE IF NOT EXISTS silver.dim_tipo (
     nome_tipo_en VARCHAR(50) NOT NULL
 );
 
--- ----------------------------------------------------------------------------
+
 -- 3. Dimensao Pokemon (dim_pokemon)
--- ----------------------------------------------------------------------------
+
 CREATE TABLE IF NOT EXISTS silver.dim_pokemon (
     id_pokemon INTEGER PRIMARY KEY,
     id_pokemon_csv INTEGER NOT NULL UNIQUE,
@@ -62,9 +56,9 @@ CREATE TABLE IF NOT EXISTS silver.dim_pokemon (
     forma_corporal VARCHAR(50)
 );
 
--- ----------------------------------------------------------------------------
+
 -- 4. Matriz de Efetividade de Tipos (efetividade_tipo)
--- ----------------------------------------------------------------------------
+
 CREATE TABLE IF NOT EXISTS silver.efetividade_tipo (
     id_tipo_atacante INTEGER NOT NULL REFERENCES silver.dim_tipo(id_tipo),
     id_tipo_defensor INTEGER NOT NULL REFERENCES silver.dim_tipo(id_tipo),
@@ -72,9 +66,9 @@ CREATE TABLE IF NOT EXISTS silver.efetividade_tipo (
     PRIMARY KEY (id_tipo_atacante, id_tipo_defensor)
 );
 
--- ----------------------------------------------------------------------------
+
 -- 5. Tabela Fato Confronto (fato_confronto)
--- ----------------------------------------------------------------------------
+
 CREATE TABLE IF NOT EXISTS silver.fato_confronto (
     id_fato BIGINT PRIMARY KEY,
     id_combate INTEGER NOT NULL,
@@ -100,9 +94,9 @@ CREATE INDEX IF NOT EXISTS idx_fato_geracao ON silver.fato_confronto(id_geracao_
 CREATE INDEX IF NOT EXISTS idx_fato_dif_vel ON silver.fato_confronto(diferenca_velocidade);
 CREATE INDEX IF NOT EXISTS idx_fato_mult_efet ON silver.fato_confronto(multiplicador_efetividade_primario);
 
--- ----------------------------------------------------------------------------
+
 -- 6. Log de Auditoria da Conciliacao (log_conciliacao)
--- ----------------------------------------------------------------------------
+
 CREATE TABLE IF NOT EXISTS silver.log_conciliacao (
     id_pokemon_csv INTEGER PRIMARY KEY,
     nome_csv VARCHAR(100),
